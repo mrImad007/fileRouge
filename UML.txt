@@ -1,0 +1,6 @@
+Vous trouverez ci-joint le lien de la conception UML du Projet CARENT:
+
+Diagramme de class: https://app.gleek.io/diagrams/JusO7NEEP25F_tgXWDnEGw
+
+Diagramme de cas d'utilisation: https://lucid.app/lucidchart/7b9ba427-d99a-4c2b-93c5-221c400376a4/edit?page=.Q4MUjXso07N&invitationId=inv_793af819-d3e7-438c-ab92-e133073e37a6#
+
